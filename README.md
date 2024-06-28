@@ -1,7 +1,7 @@
 <h1><img id="forest" alt="Hi!" src="https://media.giphy.com/media/Awuqdc4Rj6MbS/giphy.gif?" width="400"/></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fredericksmeltzer-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederick-smeltzer-b9038898/)](https://www.linkedin.com/in/frederick-smeltzer-b9038898/)
-[![Website Badge](https://img.shields.io/badge/-fpsmeltzer.me(WIP)-1aa15f?style=flat&logo=Google-Chrome&logoColor=white&link=https://fpsmeltzer.me)](https://fpsmeltzer.me)
+[![Website Badge](https://img.shields.io/badge/-fpsmeltzer.me-1aa15f?style=flat&logo=Google-Chrome&logoColor=white&link=https://fpsmeltzer.me)](https://fpsmeltzer.me)
 [![Gmail Badge](https://img.shields.io/badge/-fsmeltzer3-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fsmeltzer3@gmail.com)](mailto:fsmeltzer3@gmail.com)
 
 <p>Hey, welcome to my page! </br> I am currently a Front-end developer seeking to become a Fullstack developer</p>
