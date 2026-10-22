@@ -1,53 +1,39 @@
 
 # Hey, I'm Frederick 👋
 
-**Independent Developer · Software Engineer · Game Developer**
+I'm a software developer who spends a lot of his free time building games, experimenting with new technologies, and occasionally making projects more complicated than they need to be.
 
-I'm a software engineer who enjoys building games, software, and tools that solve interesting problems and create memorable experiences.
+Most of my professional experience is in front-end development, primarily with React and TypeScript. Outside of work, I've been diving further into backend development, game engines, infrastructure, and whatever else catches my interest.
 
-My professional background is in front-end engineering, but my work spans full-stack applications, game development, infrastructure, and developer tooling.
+### What I'm working on
 
-I love figuring out how things work, designing systems from the ground up, and turning ambitious ideas into something real.
+**Enveloped in Darkness**  
+A horror game I'm building in Godot with C#. I'm particularly interested in creating a world that reacts to what the player does rather than relying entirely on scripted events.
 
-## 🚀 What I'm Building
+**TCGOK**  
+A platform I've been building for the One Piece TCG community. It handles things like tournaments, rankings, and player statistics.
 
-### 🎮 Enveloped in Darkness
-A narrative-driven horror game built with **Godot and C#**, exploring interactive storytelling, player agency, and systems-driven gameplay.
+**OPBoard**  
+A One Piece TCG simulator I'm developing in Unity. A lot of the work involves translating complicated card game rules into systems that actually behave correctly.
 
-### 🏴‍☠️ TCGOK
-A competitive trading card game community platform built with **Next.js, TypeScript, and Supabase**.
+**Contrabot**  
+My ongoing experiments with AI agents, automation, custom MCP servers, and self-hosted development tools.
 
-Features include tournament management, player rankings, and community integrations.
+### Things I work with
 
-### 🃏 OPBoard
-A digital tabletop card game simulator developed with **Unity and C#**, focused on modular game systems, strategic gameplay, and multiplayer functionality.
+- **Web:** TypeScript, JavaScript, React, Next.js, HTML, CSS
+- **Backend:** Node.js, PostgreSQL, Supabase
+- **Game Dev:** C#, Godot, Unity
+- **Other:** Docker, Git, Linux, Raspberry Pi
 
-## 🛠️ Technologies & Tools
+### A little more about me
 
-**Web Development**
+I've been playing games for as long as I can remember, and I've always wanted to make my own.
 
-TypeScript · JavaScript · React · Next.js · HTML · CSS
+These days, I'm trying to spend less time just thinking about ideas and more time actually finishing them.
 
-**Backend & Infrastructure**
+When I'm not coding, there's a good chance I'm playing something competitive, messing with hardware, or getting lost in another project.
 
-Node.js · PostgreSQL · Supabase · Docker · Git · Vercel
-
-**Game Development**
-
-C# · Godot · Unity
-
-**Exploring**
-
-AI tooling · Software architecture · Automation · Self-hosted infrastructure
-
-## 🌱 Beyond the Code
-
-I'm a lifelong gamer with a particular appreciation for games that leave a lasting impression.
-
-I enjoy experimenting with new technologies, exploring game mechanics, and tackling engineering challenges outside my usual comfort zone.
-
-My long-term goal is to build games and software that people remember, enjoy, and find genuinely useful.
-
-## 🔗 Connect
+---
 
 [Website](https://fpsmeltzer.me) · [LinkedIn](https://www.linkedin.com/in/frederick-smeltzer-b9038898/)
